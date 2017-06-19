@@ -1,28 +1,26 @@
-## Laravel PHP Framework
+## Sistema de futbol
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+**Descripcion:**
+Trabajo práctico del cuarto cuatrimestre de la Escuela DaVinci construido con *Laravel*, su ORM *eloquent* y un maquetado con boostrap y plantillas *blade*.
+La pagina ofrece un sistema *login*, *registro* y un panel en el que el admin puede insertar, modificar y eliminar usuarios.
+Trata de una página de futbol que ofrece informacion de *noticias*, *equipos*, *torneos*, *sedes*, *jugadores*.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+**Tecnologias usadas: **
+Laravel, Eloquent, Blade, Boostrap
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Registro:
 
-## Official Documentation
+![Image of inicio](public/imagenes/pagina/registro.png)
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Inicio:
 
-## Contributing
+![Image of inicio](public/imagenes/pagina/inicio.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Jugadores:
 
-## Security Vulnerabilities
+![Image of inicio](public/imagenes/pagina/jugadores.png)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+Panel:
 
-### License
+![Image of inicio](public/imagenes/pagina/panel.png)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-# sistema-futbol
