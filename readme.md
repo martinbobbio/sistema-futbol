@@ -10,17 +10,17 @@ Laravel, Eloquent, Blade, Boostrap
 
 Registro:
 
-![Image of inicio](public/imagenes/pagina/registro.png)
+![Image of inicio](public/imagenes/pagina/registro.PNG)
 
 Inicio:
 
-![Image of inicio](public/imagenes/pagina/inicio.png)
+![Image of inicio](public/imagenes/pagina/inicio.PNG)
 
 Jugadores:
 
-![Image of inicio](public/imagenes/pagina/jugadores.png)
+![Image of inicio](public/imagenes/pagina/jugadores.PNG)
 
 Panel:
 
-![Image of inicio](public/imagenes/pagina/panel.png)
+![Image of inicio](public/imagenes/pagina/panel.PNG)
 
