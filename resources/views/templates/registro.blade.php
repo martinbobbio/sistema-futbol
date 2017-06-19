@@ -11,7 +11,7 @@
 				</div>
 				<div class="panel-body">
 
-					<form role="form" action="{{ URL::to('auth/register') }}" method="post">
+					<form role="form" action="{{ URL::to('zauth/register') }}" method="post">
 
 						<div class="form-group">
 							<input type="text" name="name" id="name" class="form-control input-sm" placeholder="Usuario">
